@@ -1,0 +1,23 @@
+/* src/styles/MovieList.css */
+.movie-list {
+    text-align: center;
+  }
+  
+  .movie-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movie-list li {
+    margin: 15px;
+  }
+  
+  .details-link {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .details-link:hover {
+    text-decoration: underline;
+  }
+  
